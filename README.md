@@ -2,6 +2,7 @@ The aim of this project was to implement Delaunay Triangulation using the Quad-E
 https://dl.acm.org/citation.cfm?doid=282918.282923
 
 The command-line statement to execute the code is:
+
 python Delaunay_Triangulation.py input-file output-file alternate
 
 Where input-file is the .node file, output-file creates an output file of the same name, and alternate is "false" if the recursive vertical algorithm is requested, and anything else otherwise.
